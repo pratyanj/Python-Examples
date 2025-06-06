@@ -1,5 +1,5 @@
 pafy==0.5.5
-aiohttp==3.11.18
+aiohttp==3.12.9
 fuzzywuzzy==0.18.0
 hupper==1.12.1
 seaborn==0.13.2
@@ -74,7 +74,7 @@ xor-cipher==5.0.1
 bird==0.1.2
 mechanize==0.4.10
 translate==3.6.1
-solara==1.47.0
+solara==1.48.0
 pywhatkit==5.4
 mutagen==1.47.0
 Unidecode==1.4.0
